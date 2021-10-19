@@ -1,2 +1,2 @@
-# shushi
-shushi on it, shushi got this 🦄✨💯
+# Inventory-management-system
+Simple to use program for Small Business Iventory Management
